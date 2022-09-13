@@ -1104,3 +1104,5 @@ search.brave.com###results > div:has(a[href*="zonacraft.net"])
 search.brave.com###results > div:has(a[href*="майнкрафт18.рф"])
 ||майнкрафтин.рф$all
 search.brave.com###results > div:has(a[href*="майнкрафтин.рф"])
+||beststeam.gq$all
+search.brave.com###results > div:has(a[href*="beststeam.gq"])

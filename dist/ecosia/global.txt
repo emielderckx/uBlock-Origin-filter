@@ -1104,3 +1104,5 @@ ecosia.org##.result:has(a[href*="zonacraft.net"])
 ecosia.org##.result:has(a[href*="майнкрафт18.рф"])
 ||майнкрафтин.рф$all
 ecosia.org##.result:has(a[href*="майнкрафтин.рф"])
+||beststeam.gq$all
+ecosia.org##.result:has(a[href*="beststeam.gq"])

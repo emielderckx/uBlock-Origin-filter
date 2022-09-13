@@ -1653,3 +1653,6 @@ duckduckgo.com###links>div:has(a[href*="майнкрафт18.рф"])
 ||майнкрафтин.рф$all
 google.*##.g:has(a[href*="майнкрафтин.рф"])
 duckduckgo.com###links>div:has(a[href*="майнкрафтин.рф"])
+||beststeam.gq$all
+google.*##.g:has(a[href*="beststeam.gq"])
+duckduckgo.com###links>div:has(a[href*="beststeam.gq"])
