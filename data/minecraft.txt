@@ -216,7 +216,6 @@
 *://minecraft-game.ru/*
 *://minecraft-home.ru/*
 *://minecraft-inside.com/*
-*://minecraft-inside.com/*
 *://minecraft-inside.ru/*
 *://minecraft-installer.com/*
 *://minecraft-installer.de/*
@@ -452,7 +451,6 @@
 *://osdarlings.com/*
 *://packs548.rssing.com/*
 *://pandoriacraft.ru/*
-*://pcminecraft-mods.com/*
 *://pcminecraft-mods.com/*
 *://pd19.org/*
 *://pentacraft.ru/*
