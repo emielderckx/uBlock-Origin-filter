@@ -1,4 +1,0 @@
-*://npmmirror.com/*
-*://cnpmjs.org/*
-*://npm.io/*
-*://10minecraft.ru/*
