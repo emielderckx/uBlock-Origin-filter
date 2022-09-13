@@ -160,6 +160,8 @@ google.*##.g:has(a[href*="npmmirror.com"])
 google.*##.g:has(a[href*="cnpmjs.org"])
 ||npm.io$all
 google.*##.g:has(a[href*="npm.io"])
+||10minecraft.ru$all
+google.*##.g:has(a[href*="10minecraft.ru"])
 ||code-examples.net$all
 google.*##.g:has(a[href*="code-examples.net"])
 ||kotaeta.com$all

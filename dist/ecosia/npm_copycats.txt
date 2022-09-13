@@ -12,3 +12,5 @@ ecosia.org##.result:has(a[href*="npmmirror.com"])
 ecosia.org##.result:has(a[href*="cnpmjs.org"])
 ||npm.io$all
 ecosia.org##.result:has(a[href*="npm.io"])
+||10minecraft.ru$all
+ecosia.org##.result:has(a[href*="10minecraft.ru"])

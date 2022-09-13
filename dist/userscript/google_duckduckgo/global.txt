@@ -83,6 +83,7 @@
 [data-domain*="npmmirror.com"],
 [data-domain*="cnpmjs.org"],
 [data-domain*="npm.io"],
+[data-domain*="10minecraft.ru"],
 [data-domain*="spiegato.com"],
 [data-domain*="actingcollegeses.com"],
 [data-domain*="patrickkidd3.typepad.com"],
