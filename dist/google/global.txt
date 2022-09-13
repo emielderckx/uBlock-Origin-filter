@@ -1104,3 +1104,5 @@ google.*##.g:has(a[href*="zonacraft.net"])
 google.*##.g:has(a[href*="майнкрафт18.рф"])
 ||майнкрафтин.рф$all
 google.*##.g:has(a[href*="майнкрафтин.рф"])
+||beststeam.gq$all
+google.*##.g:has(a[href*="beststeam.gq"])

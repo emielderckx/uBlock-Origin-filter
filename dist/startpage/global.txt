@@ -1104,3 +1104,5 @@ startpage.com##.w-gl__result:has(a[href*="zonacraft.net"])
 startpage.com##.w-gl__result:has(a[href*="майнкрафт18.рф"])
 ||майнкрафтин.рф$all
 startpage.com##.w-gl__result:has(a[href*="майнкрафтин.рф"])
+||beststeam.gq$all
+startpage.com##.w-gl__result:has(a[href*="beststeam.gq"])

@@ -555,6 +555,7 @@
 [data-domain*="zonacraft.net"],
 [data-domain*="майнкрафт18.рф"],
 [data-domain*="майнкрафтин.рф"],
+[data-domain*="beststeam.gq"],
 #__non-existent__{display: none}`;
     if (document.location.hostname.includes('google')) {
         const domains = css

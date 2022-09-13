@@ -1104,3 +1104,5 @@ duckduckgo.com###links>div:has(a[href*="zonacraft.net"])
 duckduckgo.com###links>div:has(a[href*="майнкрафт18.рф"])
 ||майнкрафтин.рф$all
 duckduckgo.com###links>div:has(a[href*="майнкрафтин.рф"])
+||beststeam.gq$all
+duckduckgo.com###links>div:has(a[href*="beststeam.gq"])
