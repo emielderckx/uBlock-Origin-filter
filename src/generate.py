@@ -55,7 +55,7 @@ def append_in_se(shared_fd_per_se, se, source_is_for_dev, value):
 
 def get_userscript_start(name):
     return f"""// ==UserScript==
-// @name        uBlock-Origin-dev-filter – {name}
+// @name        uBlock-Origin-filter – {name}
 // @description Filter copycat-websites from DuckDuckGo and Google
 // @match       https://*.duckduckgo.com/*
 // @include     https://*.google.*/*
@@ -95,14 +95,14 @@ def get_userscript_end():
 })();"""
 
 def get_ublock_filters_header(name):
-    return f"""! Title: uBlock-Origin-dev-filter – {name}
+    return f"""! Title: uBlock-Origin-filter – {name}
 ! Expires: 1 day
 ! Description: Filters to block and remove copycat-websites from search engines. Specific to dev websites like StackOverflow or GitHub.
-! Homepage: https://github.com/emielderckx/uBlock-Origin-dev-filter
-! Licence: https://github.com/emielderckx/uBlock-Origin-dev-filter/blob/main/LICENSE
+! Homepage: https://github.com/emielderckx/uBlock-Origin-filter
+! Licence: https://github.com/emielderckx/uBlock-Origin-filter/blob/main/LICENSE
 !
-! GitHub issues: https://github.com/emielderckx/uBlock-Origin-dev-filter/issues
-! GitHub pull requests: https://github.com/emielderckx/uBlock-Origin-dev-filter/pulls
+! GitHub issues: https://github.com/emielderckx/uBlock-Origin-filter/issues
+! GitHub pull requests: https://github.com/emielderckx/uBlock-Origin-filter/pulls
 """
 
 dev_sources_list = (

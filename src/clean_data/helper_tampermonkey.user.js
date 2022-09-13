@@ -91,7 +91,7 @@
         container.classList.add("uBlock_Origin_dev_filter__container");
 
         container.innerHTML = `
-uBlock-Origin-dev-filter/Review<br>
+uBlock-Origin-filter/Review<br>
 <button class="uBlock_Origin_dev_filter__edit_list_open_button">Edit domain list</button>
 <hr>
 <form class="uBlock_Origin_dev_filter__edit_list_form uBlock_Origin_dev_filter__hidden">
