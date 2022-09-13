@@ -66,7 +66,7 @@ To be more precise:
 
 ## Sources
 
-* [Quenhus uBlock Origin dev filter](https://github.com/quenhus/uBlock-Origin-dev-filter)
+* [emielderckx uBlock Origin dev filter](https://github.com/emielderckx/uBlock-Origin-dev-filter)
 * [Stop Mod Reposts Illegal Mod Sites](https://github.com/StopModReposts/Illegal-Mod-Sites)
 
 ## Do your own

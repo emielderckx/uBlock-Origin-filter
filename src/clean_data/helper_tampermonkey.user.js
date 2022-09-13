@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Review domains for uBlock-Origin-dev-filter
-// @namespace    https://https://github.com/quenhus/uBlock-Origin-dev-filter/
+// @name         Review domains for uBlock-Origin-filter
+// @namespace    https://https://github.com/emiel/uBlock-Origin-filter/
 // @version      0.1
-// @description  Review a list of domains for the uBlock filter: uBlock-Origin-dev-filter
-// @author       Quenhus
+// @description  Review a list of domains for the uBlock filter: uBlock-Origin-filter
+// @author       emielderckx
 // @match        ^https://www.google.com/*$
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=ublockorigin.com
 // @grant        GM_addStyle
