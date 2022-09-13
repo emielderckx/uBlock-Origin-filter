@@ -160,6 +160,8 @@ startpage.com##.w-gl__result:has(a[href*="npmmirror.com"])
 startpage.com##.w-gl__result:has(a[href*="cnpmjs.org"])
 ||npm.io$all
 startpage.com##.w-gl__result:has(a[href*="npm.io"])
+||10minecraft.ru$all
+startpage.com##.w-gl__result:has(a[href*="10minecraft.ru"])
 ||spiegato.com$all
 startpage.com##.w-gl__result:has(a[href*="spiegato.com"])
 ||actingcollegeses.com$all

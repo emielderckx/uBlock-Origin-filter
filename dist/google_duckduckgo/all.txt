@@ -237,6 +237,9 @@ duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
 ||npm.io$all
 google.*##.g:has(a[href*="npm.io"])
 duckduckgo.com###links>div:has(a[href*="npm.io"])
+||10minecraft.ru$all
+google.*##.g:has(a[href*="10minecraft.ru"])
+duckduckgo.com###links>div:has(a[href*="10minecraft.ru"])
 ||code-examples.net$all
 google.*##.g:has(a[href*="code-examples.net"])
 duckduckgo.com###links>div:has(a[href*="code-examples.net"])

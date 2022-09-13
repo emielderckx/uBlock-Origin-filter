@@ -160,6 +160,8 @@ duckduckgo.com###links>div:has(a[href*="npmmirror.com"])
 duckduckgo.com###links>div:has(a[href*="cnpmjs.org"])
 ||npm.io$all
 duckduckgo.com###links>div:has(a[href*="npm.io"])
+||10minecraft.ru$all
+duckduckgo.com###links>div:has(a[href*="10minecraft.ru"])
 ||spiegato.com$all
 duckduckgo.com###links>div:has(a[href*="spiegato.com"])
 ||actingcollegeses.com$all
