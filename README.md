@@ -1,5 +1,5 @@
-# uBlock-Origin-filter
-Filters to block and remove copycat-websites from DuckDuckGo, Google and other search engines. Used to be specific to websites like StackOverflow or GitHub, but it currently supports others like Wikipedia.
+# uBlock-Origin--Minecaft-filter
+Filters to block and remove Minecraft copycat-websites from DuckDuckGo, Google and other search engines. 
 
 To use this tools, you should have [uBlock Origin installed](https://github.com/gorhill/uBlock).
 
